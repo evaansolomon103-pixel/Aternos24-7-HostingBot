@@ -6,7 +6,7 @@
     "type": "online"
   },
   "server": {
-    "ip": "FAH1-8lJb.aternos.me:49375",
+    "ip": "FAH1-8lJb.aternos.me",
     "port": 49375,
     "version": "1.19",
     "try-creative": false
